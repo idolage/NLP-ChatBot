@@ -1,0 +1,235 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "Hello"
+      ],
+      "responses": [
+        "Hi, Please tell me your item list one by one to know the shelf number",
+        "Hello, Please tell me your item list one by one to know the shelf number"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Okay, Bye",
+        "See you later",
+        "Goodbye"
+      ],
+      "responses": [
+        "Have a nice day, thanks for visiting",
+        "Goodbye! Come back again soon."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Thanks",
+        "Thank you",
+        "Thanks a lot!"
+      ],
+      "responses": [
+        "Happy to help you!",
+        "Any time!",
+        "It is my pleasure"
+      ]
+    },
+    {
+      "tag": "items",
+      "patterns": [
+        "Which items do you have?",
+        "What kinds of items are there?",
+        "What do you sell?"
+      ],
+      "responses": [
+        "We sell all kind of grocery items.",
+        "We have fruits, vegetables and other grocery items."
+      ]
+    },
+    {
+      "tag": "Vegetables",
+      "patterns": [
+        "Where are vegetables?",
+        "vegetables"
+      ],
+      "responses": [
+        "All vegetables are in aisle A.",
+        "Please check aisle A for vegetables."
+      ]
+    },
+    {
+      "tag": "Fruits",
+      "patterns": [
+        "Where are fruits?",
+        "fruits"
+      ],
+      "responses": [
+        "All fruits are in aisle B.",
+        "Please check aisle B for fruits."
+      ]
+    },
+    {
+      "tag": "Dairy",
+      "patterns": [
+        "Where are dairy products?",
+        "butter",
+        "milk",
+        "cheese",
+        "curd",
+        "yogurt"
+      ],
+      "responses": [
+        "All dairy items are in aisle C.",
+        "Please check aisle C for dairy items."
+      ]
+    },
+    {
+      "tag": "spices",
+      "patterns": [
+        "curry leaves",
+        "cinnamon",
+        "turmeric powder",
+        "chilli powder",
+        "pepper powder",
+        "salt",
+        "sugar"
+      ],
+      "responses": [
+        "All spices and condiments are in aisle D.",
+        "Please check aisle D for spices and condiments.",
+        "The item is in aisle D."
+      ]
+    },
+    {
+      "tag": "liquid",
+      "patterns": [
+        "cooking oil",
+        "vinegar",
+        "soy sauce",
+        "oyster sauce",
+        "ketchup"
+      ],
+      "responses": [
+        "Please check aisle E.",
+        "The item is in aisle E."
+      ]
+    },
+    {
+      "tag": "leeks",
+      "patterns": [
+        "Where are leeks?",
+        "leeks"
+      ],
+      "responses": [
+        "Please check shelf 1 for leeks.",
+        "The item is in shelf 1."
+      ]
+    },
+    {
+      "tag": "potato",
+      "patterns": [
+        "Where are potatoes?",
+        "potatoes"
+      ],
+      "responses": [
+        "Please check shelf 2 for potatoes.",
+        "The item is in shelf 2."
+      ]
+    },
+    {
+      "tag": "tomato",
+      "patterns": [
+        "Where are tomatoes?",
+        "tomatoes"
+      ],
+      "responses": [
+        "Please check shelf 3 for tomatoes.",
+        "The item is in shelf 3."
+      ]
+    },
+    {
+      "tag": "carrot",
+      "patterns": [
+        "Where are carrots?",
+        "carrots"
+      ],
+      "responses": [
+        "Please check shelf 4 for carrots.",
+        "The item is in shelf 4."
+      ]
+    },
+    {
+      "tag": "apple",
+      "patterns": [
+        "Where are apples?",
+        "apples"
+      ],
+      "responses": [
+        "Please check shelf 5 for apples.",
+        "The item is in shelf 5."
+      ]
+    },
+    {
+      "tag": "oranges",
+      "patterns": [
+        "Where are oranges?",
+        "oranges"
+      ],
+      "responses": [
+        "Please check shelf 6 for oranges.",
+        "The item is in shelf 6."
+      ]
+    },
+    {
+      "tag": "banana",
+      "patterns": [
+        "Where are bananas?",
+        "bananas"
+      ],
+      "responses": [
+        "Please check shelf 7 for bananas.",
+        "The item is in shelf 7."
+      ]
+    },
+    {
+      "tag": "grapes",
+      "patterns": [
+        "Where are grapes?",
+        "grapes"
+      ],
+      "responses": [
+        "Please check shelf 8 for grapes.",
+        "The item is in shelf 8."
+      ]
+    },
+    {
+      "tag": "mangoes",
+      "patterns": [
+        "Where are mangoes?",
+        "mangoes"
+      ],
+      "responses": [
+        "Please check shelf 9 for mangoes.",
+        "The item is in shelf 9."
+      ]
+    },
+    {
+      "tag": "stationary",
+      "patterns": [
+        "Where are stationary items?",
+        "books",
+        "A 4",
+        "pens",
+        "pencils"
+      ],
+      "responses": [
+        "All stationary items are in aisle F.",
+        "Please check aisle F for stationary items.",
+        "The item is in aisle F."
+      ]
+    }
+  ]
+}
